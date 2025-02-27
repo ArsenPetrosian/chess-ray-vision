@@ -10,6 +10,7 @@ Our paper can be found [here](https://github.com/samryan18/chess-ray-vision/blob
 * Mukund Venkateswaran (mukundv@seas)
 * Michael Deng (michdeng@wharton)
 * Kurt Convey (kconvey@seas)
+* Arsen Petrosian
 
 
 ## How to Use
